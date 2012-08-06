@@ -1,0 +1,3 @@
+15+1 Game is a puzzle containg of 16 fields, one of which is empty. Your objective is to complete the puzzle moving only the empty field. When the empty field is moved it switches the place with the puzzle to which place it is moved to. The source code was written in Delphi7.
+
+To edit the code, please, install component xicontrols.delphi.0.01, first. It is used for button object. If you do not know to install components in Delphi check this website: http://delphi.about.com/od/vclusing/ss/installpasvcl.htm
